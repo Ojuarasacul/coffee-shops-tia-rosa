@@ -1,0 +1,5 @@
+# arquivos que nao precisam ir pro github
+
+__pycache__/
+*.pyc
+.DS_Store

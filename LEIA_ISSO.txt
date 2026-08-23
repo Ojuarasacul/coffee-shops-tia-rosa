@@ -1,0 +1,27 @@
+LEIA ISSO PRIMEIRO - 5 PASSOS
+================================
+
+PASSO 1 - Baixe a pasta
+Baixe todos os arquivos dessa pasta pro seu computador.
+
+PASSO 2 - Teste o sistema
+Abre o terminal dentro da pasta e digita:
+python3 teste_sistema.py
+Tem que aparecer "TODOS OS TESTES PASSARAM" no final.
+
+PASSO 3 - Use o sistema
+Digita esse comando pra abrir o menu:
+python3 main.py
+Navega pelas opcoes digitando o numero e apertando Enter.
+
+PASSO 4 - Suba pro GitHub
+Segue as instrucoes do arquivo COMO_SUBIR_GITHUB.txt (ou roda o
+arquivo setup_github.py que faz quase tudo sozinho).
+
+PASSO 5 - Entregue a atividade
+Abre o arquivo Relatorio_Coffee_Shop.docx, confere se esta tudo
+certo, coloca o link do seu GitHub nele e entrega pro professor
+junto com o link do repositorio.
+
+Qualquer duvida, o arquivo README.md tem mais detalhes de como o
+sistema funciona.
